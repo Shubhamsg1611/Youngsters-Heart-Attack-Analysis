@@ -1,4 +1,5 @@
 # Youngsters-Heart-Attack-Project
+![](https://www.datascienceportfol.io/static/profile_pics/pr30_EC1C0F1E844F46CDB662.jpg)
 
 The Youngsters Heart Attack Data Analysis and Machine Learning Project focuses on analyzing a comprehensive health dataset to predict health outcomes such as diabetes and heart attack likelihood. The project uses machine learning algorithms and various data analysis techniques to provide insights into how lifestyle factors, biometric measurements, and health conditions influence the likelihood of these health issues.
 
